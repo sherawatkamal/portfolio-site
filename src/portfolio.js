@@ -36,11 +36,11 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        "⚡ Develop highly interactive front-end user interfaces for web and mobile applications",
+        "⚡ Build responsive website front ends using ReactJS",
+        "⚡ Develop mobile applications using Flutter and Android",
+        "⚡ Create application backends using Node.js, Express, and Flask",
+        "⚡ Integrate third-party services such as Firebase, AWS, and DigitalOcean",
       ],
       softwareSkills: [
         {
@@ -142,8 +142,8 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Strong foundation in machine learning, deep learning, and data analysis using Python, TensorFlow, and Scikit-learn",
-        "⚡  Experience developing end-to-end data-driven applications, from preprocessing and modeling to deployment",
-        "⚡ Skilled in data visualization using Matplotlib, Seaborn, and Tableau to extract insights and drive decisions",
+        "⚡  Experienced in developing end-to-end data-driven applications, from preprocessing and modeling to deployment",
+        "⚡ Proficient in data visualization using Matplotlib, Seaborn, and Tableau to extract insights and support decision-making",
       ],
       softwareSkills: [
         {
