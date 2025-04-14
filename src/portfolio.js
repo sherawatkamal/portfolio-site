@@ -471,78 +471,78 @@ const contactPageData = {
 
 const projects = {
   data: [
-    // {
-    //   id: "0",
-    //   name: "Keep Calm and Carry On",
-    //   url: "https://github.com/harikanani/Keep-Calm-and-Carry-On.github.io",
-    //   description:
-    //     "This platform enables users to practice Augmented Reality meditation, play stress burster games, track task completion and engage in motivational exercises to cope with stress and anxiety at work.  ",
-    //   languages: [
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "logos-html-5",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "logos-css-3",
-    //     },
-    //     {
-    //       name: "NodeJs",
-    //       iconifyClass: "logos-nodejs",
-    //     },
-    //     {
-    //       name: "Augmented Reality",
-    //       iconifyClass: "bi:badge-ar",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "https://github.com/harikanani/Keep-Calm-and-Carry-On.github.io",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //     {
-    //       name: "Devpost",
-    //       url: "https://devpost.com/software/keep-calm-and-carry-on",
-    //       iconifyClass: "fluent:window-dev-edit-20-filled",
-    //     },
-    //     {
-    //       name: "Live Demo",
-    //       url:
-    //         "https://akshitagupta15june.github.io/Keep-Calm-and-Carry-On.github.io/",
-    //       iconifyClass: "mdi:web",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "1",
-    //   name: "YOG4LIFE SOCIAL APP",
-    //   url: "https://github.com/kevalvavaliya/Yog4Life",
-    //   description:
-    //     "An app for helping people their healthy life. Yog4Life Has a feed feature which is help to get information from the folks, Yog4Life has an anonymous chat room to get connected with the world.",
-    //   languages: [
-    //     {
-    //       name: "Flutter",
-    //       iconifyClass: "logos-flutter",
-    //     },
-    //     {
-    //       name: "NodeJs",
-    //       iconifyClass: "logos-nodejs",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "https://github.com/kevalvavaliya/Yog4Life",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //     {
-    //       name: "Devfolio",
-    //       url: "https://devfolio.co/projects/yoglife-b20d",
-    //       iconifyClass: "fluent:window-dev-edit-20-filled",
-    //     },
-    //   ],
-    // },
+    {
+      id: "0",
+      name: "Advance Spring Design Web",
+      description:
+        "Converted a legacy desktop app to a web platform using ReactJS and Redux. Integrated C# backend logic, Matplotlib charts, and 3D rendering with Three.js.",
+      languages: [
+        { name: "ReactJS", iconifyClass: "logos-react" },
+        { name: "Redux", iconifyClass: "skill-icons:redux" },
+        { name: "C#", iconifyClass: "devicon:csharp" },
+        { name: "Three.js", iconifyClass: "simple-icons:threejs" },
+        { name: "Matplotlib", iconifyClass: "simple-icons:matplotlib" }
+      ],
+      links: []
+    },
+    {
+      id: "1",
+      name: "Anime Character Generator",
+      description:
+        "Developed a DCGAN with TensorFlow to generate anime faces. Used OpenCV for preprocessing and Matplotlib for training visualization.",
+      languages: [
+        { name: "TensorFlow", iconifyClass: "logos-tensorflow" },
+        { name: "OpenCV", iconifyClass: "simple-icons:opencv" },
+        { name: "NumPy", iconifyClass: "logos:numpy" },
+        { name: "CUDA", iconifyClass: "logos:nvidia" }
+      ],
+      links: []
+    },
+    {
+      id: "2",
+      name: "UTS Website",
+      description:
+        "Built and maintained the official UTS website using Vue.js. Ensured performance, accessibility, and service content updates.",
+      languages: [
+        { name: "HTML5", iconifyClass: "logos-html-5" },
+        { name: "CSS3", iconifyClass: "logos-css-3" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Vue.js", iconifyClass: "logos-vue" }
+      ],
+      links: []
+    },
+    {
+      id: "3",
+      name: "CalcEdge Website",
+      description:
+        "Developed the CalcEdge website with Vue.js for responsive UI and seamless user experience. Maintained performance and reliability.",
+      languages: [
+        { name: "HTML5", iconifyClass: "logos-html-5" },
+        { name: "CSS3", iconifyClass: "logos-css-3" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "Vue.js", iconifyClass: "logos-vue" }
+      ],
+      links: []
+    },   
+    {
+      id: "1",
+      name: "YOG4LIFE SOCIAL APP",
+      // url: "https://github.com/kevalvavaliya/Yog4Life",
+      description:
+        "An app for helping people their healthy life. Yog4Life Has a feed feature which is help to get information from the folks, Yog4Life has an anonymous chat room to get connected with the world.",
+      languages: [
+        {
+          name: "Flutter",
+          iconifyClass: "logos-flutter",
+        },
+        {
+          name: "NodeJs",
+          iconifyClass: "logos-nodejs",
+        },
+      ],
+      links: [
+      ],
+    },
     // {
     //   id: "2",
     //   name: "Adoptisity",
@@ -749,34 +749,30 @@ const projects = {
     //     },
     //   ],
     // },
-    // {
-    //   id: "8",
-    //   name: "Swag Store",
-    //   url: "https://github.com/harikanani/e-commerce-frontend",
-    //   description:
-    //     "An E-commerce website built using MERN[Mongo, Express, React, Node] stack and we have also added stripe payment gateway integration [in test mode].",
-    //   languages: [
-    //     {
-    //       name: "ReactJS",
-    //       iconifyClass: "logos-react",
-    //     },
-    //     {
-    //       name: "NodeJS",
-    //       iconifyClass: "logos-nodejs",
-    //     },
-    //     {
-    //       name: "MedusaJS",
-    //       iconifyClass: "logos-medusa-icon",
-    //     },
-    //   ],
-    //   links: [
-    //     {
-    //       name: "Github",
-    //       url: "https://github.com/harikanani/e-commerce-frontend",
-    //       iconifyClass: "ri:github-fill",
-    //     },
-    //   ],
-    // },
+    {
+      id: "8",
+      name: "Swag Store",
+      // url: "https://github.com/harikanani/e-commerce-frontend",
+      description:
+        "An E-commerce website built using MERN[Mongo, Express, React, Node] stack and we have also added stripe payment gateway integration [in test mode].",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "MedusaJS",
+          iconifyClass: "logos-medusa-icon",
+        },
+      ],
+      links: [
+
+      ],
+    },
     // {
     //   id: "9",
     //   name: "node-blockchain",
