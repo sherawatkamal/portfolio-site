@@ -79,59 +79,63 @@ function Header(props) {
           </label>
           <ul className="menu">
             <li>
-              <NavLink
-                className="homei"
-                to="/home"
-                tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
-                style={{ borderRadius: 5, color: theme.text }}
-              >
-                Home
-              </NavLink>
+                          <NavLink
+              className="homei"
+              to="/home"
+              tag={Link}
+              activeClassName="active"
+              isActive={(match, location) => {
+                return location.pathname === "/" || location.pathname === "/home";
+              }}
+              style={{ borderRadius: 5, color: theme.text }}
+            >
+              Home
+            </NavLink>
             </li>
             <li>
-              <NavLink
-                className="ec"
-                to="/education"
-                tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
-                style={{ borderRadius: 5, color: theme.text }}
-              >
-                Education and Certifications
-              </NavLink>
+                          <NavLink
+              className="ec"
+              to="/education"
+              tag={Link}
+              activeClassName="active"
+              style={{ borderRadius: 5, color: theme.text }}
+            >
+              Education and Certifications
+            </NavLink>
             </li>
             <li>
-              <NavLink
-                className="xp"
-                to="/experience"
-                tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
-                style={{ borderRadius: 5, color: theme.text }}
-              >
-                Experience
-              </NavLink>
+                          <NavLink
+              className="xp"
+              to="/experience"
+              tag={Link}
+              activeClassName="active"
+              style={{ borderRadius: 5, color: theme.text }}
+            >
+              Experience
+            </NavLink>
             </li>
             <li>
-              <NavLink
-                className="projects"
-                to="/projects"
-                tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
-                style={{ borderRadius: 5, color: theme.text }}
-              >
-                Projects
-              </NavLink>
+                          <NavLink
+              className="projects"
+              to="/projects"
+              tag={Link}
+              activeClassName="active"
+              style={{ borderRadius: 5, color: theme.text }}
+            >
+              Projects
+            </NavLink>
             </li>
+
             <li>
-              <NavLink
-                className="cr"
-                to="/contact"
-                tag={Link}
-                activeStyle={{ fontWeight: "bold" }}
-                style={{ borderRadius: 5, color: theme.text }}
-              >
-                Contact and Resume
-              </NavLink>
+                          <NavLink
+              className="cr"
+              to="/contact"
+              tag={Link}
+              activeClassName="active"
+              style={{ borderRadius: 5, color: theme.text }}
+            >
+              Contact and Resume
+            </NavLink>
             </li>
             <button {...styles} onClick={changeTheme}>
               {icon}

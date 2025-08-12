@@ -43,7 +43,7 @@
   text-overflow: ellipsis;
   color: rgb(36, 41, 46);
   font-family: "Google Sans Regular";
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
   font-size: 25px;
   font-weight: 700;
   letter-spacing: -0.5px;
@@ -62,6 +62,8 @@
   font-family: "Google Sans Regular";
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
 }
 
 .repo-details {
@@ -74,6 +76,7 @@
   margin: 0;
   flex-direction: row;
   justify-content: space-between;
+  margin-top: 1rem;
 }
 .Leftitem {
   align-content: flex-start;
@@ -93,10 +96,13 @@
 @media (max-width: 768px) {
   .repo-name {
     font-size: 16px;
+    margin-bottom: 0.75rem;
   }
 
   .repo-description {
     font-size: 14px;
+    margin-bottom: 1rem;
+    line-height: 1.5;
   }
 
   .repo-details {
@@ -105,5 +111,9 @@
 
   .repo-creation-date {
     font-size: 14px;
+  }
+
+  .flexDiv {
+    margin-top: 0.75rem;
   }
 }

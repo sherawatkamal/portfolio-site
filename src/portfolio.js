@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Kamal Sherawat",
   subTitle: "Software Developer, Data Scientist 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1MCqZTRKVDKECnxHeTNK1iqy76eipb1HU/view?usp=sharing",
+    "https://drive.google.com/file/d/1PHgxmMnof_OYH7qc8FaRbY4IUIgSgLlE/view?usp=sharing",
   mail: "mailto:kamal3@gmail.com",
 };
 
@@ -100,6 +100,50 @@ const skills = {
             color: "#f89820",
           },
         },
+        {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "simple-icons:typescript",
+          style: {
+            backgroundColor: "#FFFFFF",
+            color: "#3178C6",
+          },
+        },
+        {
+          skillName: "Next.js",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+          style: {
+            backgroundColor: "#FFFFFF",
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "C#",
+          fontAwesomeClassname: "devicon-plain:csharp",
+          style: {
+            color: "#68217A",
+          },
+        },
+        {
+          skillName: "ASP.NET",
+          fontAwesomeClassname: "simple-icons:dotnet",
+          style: {
+            color: "#512BD4",
+          },
+        },
+        {
+          skillName: "Redux",
+          fontAwesomeClassname: "skill-icons:redux",
+          style: {
+            color: "#764ABC",
+          },
+        },
+        {
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: {
+            color: "#06B6D4",
+          },
+        },
         // {
         //   skillName: "Flutter",
         //   fontAwesomeClassname: "simple-icons:flutter",
@@ -135,6 +179,48 @@ const skills = {
             color: "#E94E32",
           },
         },
+        {
+          skillName: "Firebase Realtime DB",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "Unreal Engine",
+          fontAwesomeClassname: "simple-icons:unrealengine",
+          style: {
+            color: "#0E0E0E",
+          },
+        },
+        {
+          skillName: "Cloud Functions",
+          fontAwesomeClassname: "simple-icons:googlecloud",
+          style: {
+            color: "#4285F4",
+          },
+        },
+        {
+          skillName: "WebXR",
+          fontAwesomeClassname: "simple-icons:webxr",
+          style: {
+            color: "#FF6B35",
+          },
+        },
+        {
+          skillName: "CI/CD",
+          fontAwesomeClassname: "simple-icons:githubactions",
+          style: {
+            color: "#2088FF",
+          },
+        },
+        {
+          skillName: "WordPress",
+          fontAwesomeClassname: "simple-icons:wordpress",
+          style: {
+            color: "#21759B",
+          },
+        },
       ],
     },
     {
@@ -142,8 +228,11 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Strong foundation in machine learning, deep learning, and data analysis using Python, TensorFlow, and Scikit-learn",
-        "⚡  Experienced in developing end-to-end data-driven applications, from preprocessing and modeling to deployment",
+        "⚡ Experienced in developing end-to-end data-driven applications, from preprocessing and modeling to deployment",
         "⚡ Proficient in data visualization using Matplotlib, Seaborn, and Tableau to extract insights and support decision-making",
+        "⚡ Expertise in Computer Vision with CNN architectures (VGG16, ResNet) and deep learning models",
+        "⚡ Skilled in Natural Language Processing using RNN, LSTM architectures with GloVe embeddings",
+        "⚡ Experience in multi-modal AI tasks including image classification, segmentation, and time-series analysis",
       ],
       softwareSkills: [
         {
@@ -202,6 +291,27 @@ const skills = {
             color: "#5b77ef",
           },
         },
+        {
+          skillName: "Computer Vision",
+          fontAwesomeClassname: "simple-icons:opencv",
+          style: {
+            color: "#5C3EE8",
+          },
+        },
+        {
+          skillName: "Neural Networks",
+          fontAwesomeClassname: "simple-icons:tensorflow",
+          style: {
+            color: "#FF6F00",
+          },
+        },
+        {
+          skillName: "CNN/RNN",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            color: "#D00000",
+          },
+        },
       ],
     },
   ],
@@ -216,9 +326,10 @@ const degrees = {
       alt_name: "SSEC",
       duration: "2024 - 2026",
       descriptions: [
-        "⚡ I have studied core subjects like Advacne Machine Learning, Computer Vision, Deep Learning.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-        "⚡ Assisted in teaching and grading for a graduate-level Machine Learning course.",
+        "⚡ I have studied core subjects like Advanced Machine Learning, Computer Vision, Deep Learning, and Neural Networks.",
+        "⚡ I have implemented several projects based on what I've learned in my Computer Engineering course, including AI/ML applications.",
+        "⚡ Assisted in teaching and grading for a graduate-level Machine Learning course with 80+ students.",
+        "⚡ Conducted research on Dynamic CNNs for multi-modal tasks and image captioning with CNN-RNN architectures.",
       ],
       website_link: "https://www.vt.edu/",
     },
@@ -230,8 +341,8 @@ const degrees = {
       duration: "2018 - 2022",
       descriptions: [
         "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ I have also completed various online courses for Backend, Web, and Mobile App Development.",
+        "⚡ I have implemented several projects based on what I've learned in my Computer Engineering course.",
       ],
       website_link: "https://sushantuniversity.edu.in/",
     },
@@ -306,6 +417,14 @@ const certifications = {
       // color_code: "#f36c3d",
       color_code: "#fffbf3",
     },
+    {
+      title: "AltCtrl University Hackathon - 1st Place",
+      subtitle: "University Hackathon",
+      logo_path: "hackathon1.svg",
+      certificate_link: "#",
+      alt_name: "Hackathon Winner",
+      color_code: "#FFD700",
+    },
     // color_code: "#8C151599",
     // color_code: "#7A7A7A",
     // color_code: "#0C9D5899",
@@ -323,32 +442,33 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "With over two years of experience in full-stack development and machine learning, I’ve led and contributed to real-world projects, often independently. I also enjoy sharing knowledge through technical workshops and peer learning sessions.",
+    "With over three years of experience in full-stack development, machine learning, and computer vision, I've led and contributed to real-world projects, often independently. My expertise spans from web development with React/Next.js to AI/ML applications, including CNN architectures, image captioning, and multi-modal tasks. I also enjoy sharing knowledge through technical workshops, peer learning sessions, and academic research.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
         {
+          title: "Software Engineer",
+          company: "fAIshion Inc",
+          company_url: "#",
+          logo_path: "uts_logo.svg",
+          duration: "June 2025 - Aug 2025",
+          location: "Virginia, USA",
+          description: `Built web-based tools and a dashboard using modern JavaScript frameworks to visualize and explore bibliometric and publication data for research impact analysis. Collaborated with academic researchers and data teams to integrate APIs and automate the retrieval, processing, and presentation of scholarly metrics and research output trends.`,
+          color: "#FF6B6B",
+        },
+        {
           title: "Grader",
           company: "Virginia Tech",
           company_url: "https://www.vt.edu/",
           logo_path: "VirginiaTech_logo.png",
-          duration: "Aug 2025 - Present",
+          duration: "Jan 2025 - May 2025",
           location: "Blacksburg, Virginia",
           description: `Assisted in teaching and grading for a graduate-level Machine Learning course with over 80 students, ensuring fair evaluation and consistent feedback. Collaborated closely with the instructor to streamline assignment workflows and provided student support on key topics such as data preparation, regression, decision trees, and neural networks.`,
           color: "#831e3f",
         },
-        {
-          title: "Software Engineer",
-          company: "Universal Technical Systems, Inc.",
-          company_url: "https://uts.com/",
-          logo_path: "uts_logo.svg",
-          duration: "Nov 2021 - June 2024",
-          location: "Gurugram, Delhi",
-          description: `I led the migration of a desktop application (ASD Web) to a scalable web platform using ReactJS and C#, which increased accessibility by 60% and reduced load times by 35%. I also developed a predictive maintenance system using machine learning that reduced system downtime by 40% and improved failure detection accuracy by 85%. In addition, I managed MySQL databases and designed RESTful APIs, resulting in a 30% boost in data retrieval speed and enhanced system scalability. Alongside these contributions, I managed and maintained their websites, uts.com and calcedge.com.`,
-          color: "#ff5f5f",
-        },
+
         // {
         //   title: "Node.js Backend Developer",
         //   company: "Valora Infotech",
@@ -448,7 +568,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create Python Scripts, and React Project. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of the latest technology tools. My best experience is in creating Python Scripts and React Projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -458,12 +578,12 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "kamal_s.png",
     description:
-      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
+      "I don't blog frequently, but when I do something awesome, I try to document it so it can be helpful to others. I write on Twitter.",
     // link: "https://twitter.com/Harikrushn9",
     avatar_image_path: "blogs_image.svg",
   },
@@ -523,9 +643,35 @@ const projects = {
         { name: "Vue.js", iconifyClass: "logos-vue" }
       ],
       links: []
+    },
+    {
+      id: "4",
+      name: "fAIshion.AI Virtual Try-On",
+      description:
+        "AI-powered browser extension for virtual try-on, size recommendations, and discount matching across e-commerce platforms using React, WebAssembly, and computer vision models.",
+      languages: [
+        { name: "React", iconifyClass: "logos-react" },
+        { name: "JavaScript", iconifyClass: "logos-javascript" },
+        { name: "WebAssembly", iconifyClass: "simple-icons:webassembly" },
+        { name: "AI/ML", iconifyClass: "simple-icons:tensorflow" }
+      ],
+      links: []
+    },
+    {
+      id: "5",
+      name: "Image Captioning with CNN-RNN",
+      description:
+        "Deep learning model using VGG16 and LSTM with GloVe embeddings for generating accurate image captions on Flickr8k dataset with strong BLEU, METEOR, and ROUGE-L scores.",
+      languages: [
+        { name: "Python", iconifyClass: "logos-python" },
+        { name: "VGG16", iconifyClass: "simple-icons:keras" },
+        { name: "LSTM", iconifyClass: "simple-icons:tensorflow" },
+        { name: "GloVe", iconifyClass: "simple-icons:spacy" }
+      ],
+      links: []
     },   
     {
-      id: "1",
+      id: "6",
       name: "YOG4LIFE SOCIAL APP",
       // url: "https://github.com/kevalvavaliya/Yog4Life",
       description:
@@ -750,7 +896,55 @@ const projects = {
     //   ],
     // },
     {
+      id: "7",
+      name: "AltCtrl University Hackathon - 1st Place",
+      description:
+        "1st place winner - Social media platform for university students to share notes, lecture videos, and doubts using React.js, Redux, and MongoDB.",
+      languages: [
+        {
+          name: "React.js",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "skill-icons:redux",
+        },
+        {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb-icon",
+        }
+      ],
+      links: [
+      ],
+    },
+    {
       id: "8",
+      name: "Dynamic CNNs for Multi-Modal Tasks",
+      description:
+        "Research on ResNet-18-based CNN models using hard attention, soft attention, and omni-directional convolution for image classification, segmentation, and time-series tasks.",
+      languages: [
+        {
+          name: "Python",
+          iconifyClass: "logos-python",
+        },
+        {
+          name: "ResNet-18",
+          iconifyClass: "simple-icons:tensorflow",
+        },
+        {
+          name: "Attention",
+          iconifyClass: "simple-icons:keras",
+        },
+        {
+          name: "Computer Vision",
+          iconifyClass: "simple-icons:opencv",
+        }
+      ],
+      links: [
+      ],
+    },
+    {
+      id: "9",
       name: "Swag Store",
       // url: "https://github.com/harikanani/e-commerce-frontend",
       description:
@@ -1135,6 +1329,8 @@ const projects = {
     // },
   ],
 };
+
+
 
 export {
   settings,
