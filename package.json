@@ -2,7 +2,7 @@
   "private": true,
   "name": "personal-portfolio",
   "version": "1.0.0",
-"homepage": "https://kamalsherawat.github.io/portfolio-site",
+"homepage": "https://sherawatkamal.github.io",
 "scripts": {
   "start": "NODE_OPTIONS=--openssl-legacy-provider react-scripts start",
   "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
