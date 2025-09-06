@@ -28,7 +28,7 @@ export default function Main(propss) {
             />
             <Route
               path="/home"
-              rendesoftwareto r={(props) => (
+              render={(props) => (
                 <Home
                   {...props}
                   theme={propss.theme}

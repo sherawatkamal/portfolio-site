@@ -33,6 +33,97 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
+      title: "Data Scientist",
+      fileName: "CloudInfraImg",
+      skills: [
+        "⚡ Strong foundation in machine learning, deep learning, and data analysis using Python, TensorFlow, and Scikit-learn",
+        "⚡ Experienced in developing end-to-end data-driven applications, from preprocessing and modeling to deployment",
+        "⚡ Proficient in data visualization using Matplotlib, Seaborn, and Tableau to extract insights and support decision-making",
+        "⚡ Expertise in Computer Vision with CNN architectures (VGG16, ResNet) and deep learning models",
+        "⚡ Skilled in Natural Language Processing using RNN, LSTM architectures with GloVe embeddings",
+        "⚡ Experience in multi-modal AI tasks including image classification, segmentation, and time-series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "AWS",
+          fontAwesomeClassname: "simple-icons:amazonaws",
+          style: {
+            color: "#FF9900",
+          },
+        },
+        {
+          skillName: "Netlify",
+          fontAwesomeClassname: "simple-icons:netlify",
+          style: {
+            color: "#38AFBB",
+          },
+        },
+        {
+          skillName: "Heroku",
+          fontAwesomeClassname: "simple-icons:heroku",
+          style: {
+            color: "#6863A6",
+          },
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47A248",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#1488C6",
+          },
+        },
+        {
+          skillName: "GitHub Actions",
+          fontAwesomeClassname: "simple-icons:githubactions",
+          style: {
+            color: "#5b77ef",
+          },
+        },
+        {
+          skillName: "Computer Vision",
+          fontAwesomeClassname: "simple-icons:opencv",
+          style: {
+            color: "#5C3EE8",
+          },
+        },
+        {
+          skillName: "Neural Networks",
+          fontAwesomeClassname: "simple-icons:tensorflow",
+          style: {
+            color: "#FF6F00",
+          },
+        },
+        {
+          skillName: "CNN/RNN",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            color: "#D00000",
+          },
+        },
+      ],
+    },
+    {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
@@ -223,120 +314,6 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Data Scientist",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Strong foundation in machine learning, deep learning, and data analysis using Python, TensorFlow, PyTorch, and Scikit-learn",
-        "⚡ Experienced in developing end-to-end data-driven applications, from preprocessing and modeling to deployment",
-        "⚡ Proficient in data visualization using Matplotlib, Seaborn, and Tableau to extract insights and support decision-making",
-        "⚡ Expertise in Computer Vision with CNN architectures (VGG16, ResNet) and deep learning models",
-        "⚡ Skilled in Natural Language Processing using RNN, LSTM architectures with GloVe embeddings",
-        "⚡ Experience in multi-modal AI tasks including image classification, segmentation, and time-series analysis",
-        "⚡ Specialized in Generative AI including LLMs, GANs, and Diffusion Models with transfer learning",
-        "⚡ Research experience in Neural Archaeology and neural network interpretability",
-      ],
-      softwareSkills: [
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
-          style: {
-            color: "#38AFBB",
-          },
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#6863A6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "GitHub Actions",
-          fontAwesomeClassname: "simple-icons:githubactions",
-          style: {
-            color: "#5b77ef",
-          },
-        },
-        {
-          skillName: "Computer Vision",
-          fontAwesomeClassname: "simple-icons:opencv",
-          style: {
-            color: "#5C3EE8",
-          },
-        },
-        {
-          skillName: "Neural Networks",
-          fontAwesomeClassname: "simple-icons:tensorflow",
-          style: {
-            color: "#FF6F00",
-          },
-        },
-        {
-          skillName: "CNN/RNN",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "simple-icons:pytorch",
-          style: {
-            color: "#EE4C2C",
-          },
-        },
-        {
-          skillName: "Hugging Face",
-          fontAwesomeClassname: "simple-icons:huggingface",
-          style: {
-            color: "#FF6B35",
-          },
-        },
-        {
-          skillName: "Generative AI",
-          fontAwesomeClassname: "simple-icons:openai",
-          style: {
-            color: "#412991",
-          },
-        },
-      ],
-    },
   ],
 };
 
@@ -465,22 +442,12 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "With over three years of experience in full-stack development, machine learning, and computer vision, I've led and contributed to real-world projects, often independently. Currently serving as a Graduate Teaching and Research Assistant at Virginia Tech, conducting research in Neural Archaeology and mentoring students in Machine Learning. My expertise spans from web development with React/Next.js to advanced AI/ML applications, including Generative AI, CNN architectures, and multi-modal tasks.",
+    "With over three years of experience in full-stack development, machine learning, and computer vision, I've led and contributed to real-world projects, often independently. My expertise spans from web development with React/Next.js to AI/ML applications, including CNN architectures, image captioning, and multi-modal tasks. I also enjoy sharing knowledge through technical workshops, peer learning sessions, and academic research.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
-        {
-          title: "Graduate Teaching and Research Assistant",
-          company: "Virginia Tech",
-          company_url: "https://www.vt.edu/",
-          logo_path: "VirginiaTech_logo.png",
-          duration: "August 2025 - Present",
-          location: "Blacksburg, Virginia",
-          description: `Teaching and mentoring students in Machine Learning by clarifying concepts, addressing doubts, and evaluating assignments/projects with constructive feedback. Conducting research in Neural Archaeology, analyzing neural network representations to improve interpretability and uncover insights into model behavior and architecture.`,
-          color: "#831e3f",
-        },
         {
           title: "Software Engineer",
           company: "fAIshion Inc",
@@ -492,14 +459,14 @@ const experience = {
           color: "#FF6B6B",
         },
         {
-          title: "Software Developer",
-          company: "Universal Technical Systems",
-          company_url: "https://uts.com/",
-          logo_path: "uts_logo.svg",
-          duration: "November 2021 - June 2024",
-          location: "Gurugram, Delhi",
-          description: `Migrated a desktop app to a scalable ReactJS + C# web platform and built an ML-based predictive maintenance system, cutting load times by 35% and improving detection accuracy by 85%. Created RESTful APIs and optimized MySQL databases, boosting scalability and speeding up data retrieval.`,
-          color: "#ff5f5f",
+          title: "Grader",
+          company: "Virginia Tech",
+          company_url: "https://www.vt.edu/",
+          logo_path: "VirginiaTech_logo.png",
+          duration: "Jan 2025 - May 2025",
+          location: "Blacksburg, Virginia",
+          description: `Assisted in teaching and grading for a graduate-level Machine Learning course with over 80 students, ensuring fair evaluation and consistent feedback. Collaborated closely with the instructor to streamline assignment workflows and provided student support on key topics such as data preparation, regression, decision trees, and neural networks.`,
+          color: "#831e3f",
         },
 
         // {
