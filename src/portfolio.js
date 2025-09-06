@@ -545,7 +545,7 @@ const experience = {
           title: "Software Engineer",
           company: "fAIshion Inc",
           company_url: "#",
-          logo_path: "uts_logo.svg",
+          logo_path: "faishion_logo.jpeg",
           duration: "June 2025 - Aug 2025",
           location: "Virginia, USA",
           description: `Built web-based tools and a dashboard using modern JavaScript frameworks to visualize and explore bibliometric and publication data for research impact analysis. Collaborated with academic researchers and data teams to integrate APIs and automate the retrieval, processing, and presentation of scholarly metrics and research output trends.`,
