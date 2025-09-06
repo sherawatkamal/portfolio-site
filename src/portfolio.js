@@ -492,7 +492,7 @@ const experience = {
           color: "#FF6B6B",
         },
         {
-          title: "Web Developer",
+          title: "Software Developer",
           company: "Universal Technical Systems",
           company_url: "https://uts.com/",
           logo_path: "uts_logo.svg",
