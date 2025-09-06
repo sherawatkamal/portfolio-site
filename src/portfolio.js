@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Kamal Sherawat",
   subTitle: "Software Developer, Data Scientist 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1PHgxmMnof_OYH7qc8FaRbY4IUIgSgLlE/view?usp=sharing",
+    "https://drive.google.com/file/d/1i715Xa49_Lyy6phCNXx3f5CzZmcnFpqk/view?usp=sharing",
   mail: "mailto:kamal3@gmail.com",
 };
 
@@ -809,7 +809,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/Adoptisity",
+    //       url: "https://github.com/username/Adoptisity",
     //       iconifyClass: "ri:github-fill",
     //     },
     //     {
@@ -889,7 +889,7 @@ const projects = {
     // {
     //   id: "5",
     //   name: "Fileblok",
-    //   url: "https://github.com/harikanani/Fileblok",
+    //   url: "https://github.com/username/Fileblok",
     //   description:
     //     "Keep your projects moving with seamless transfer experice. FileBlok is a file transfer app that allows you to transfer files from one device to another without any hassle. We built this app using Flutter, Node.js and StoryBlok.",
     //   languages: [
@@ -909,7 +909,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/Fileblok",
+    //       url: "https://github.com/username/Fileblok",
     //       iconifyClass: "ri:github-fill",
     //     },
     //     {
@@ -1039,7 +1039,7 @@ const projects = {
     {
       id: "9",
       name: "Swag Store",
-      // url: "https://github.com/harikanani/e-commerce-frontend",
+      // url: "https://github.com/username/e-commerce-frontend",
       description:
         "An E-commerce website built using MERN[Mongo, Express, React, Node] stack and we have also added stripe payment gateway integration [in test mode].",
       languages: [
@@ -1063,7 +1063,7 @@ const projects = {
     // {
     //   id: "9",
     //   name: "node-blockchain",
-    //   url: "https://github.com/harikanani/node-blockchain",
+    //   url: "https://github.com/username/node-blockchain",
     //   description:
     //     "A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).",
     //   languages: [
@@ -1079,7 +1079,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/node-blockchain",
+    //       url: "https://github.com/username/node-blockchain",
     //       iconifyClass: "ri:github-fill",
     //     },
     //   ],
@@ -1087,7 +1087,7 @@ const projects = {
     // {
     //   id: "10",
     //   name: "Know Me Well",
-    //   url: "https://github.com/harikanani/personal-portfolio",
+    //   url: "https://github.com/username/personal-portfolio",
     //   description:
     //     "A simple command line interface based quiz app to know more about me :).",
     //   languages: [
@@ -1107,7 +1107,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/personal-portfolio",
+    //       url: "https://github.com/username/personal-portfolio",
     //       iconifyClass: "ri:github-fill",
     //     },
     //   ],
@@ -1115,7 +1115,7 @@ const projects = {
     // {
     //   id: "11",
     //   name: "Bloggify",
-    //   url: "https://github.com/harikanani/Bloggify",
+    //   url: "https://github.com/username/Bloggify",
     //   description: "A Simple REST API for Blog Application.",
     //   languages: [
     //     {
@@ -1126,7 +1126,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/Bloggify",
+    //       url: "https://github.com/username/Bloggify",
     //       iconifyClass: "ri:github-fill",
     //     },
     //   ],
@@ -1134,7 +1134,7 @@ const projects = {
     // {
     //   id: "12",
     //   name: "Stargazzers",
-    //   url: "https://github.com/harikanani/stargazers",
+    //   url: "https://github.com/username/stargazers",
     //   description: "An Unofficial API for GitHub Repo Stars Count",
     //   languages: [
     //     {
@@ -1145,7 +1145,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/stargazers",
+    //       url: "https://github.com/username/stargazers",
     //       iconifyClass: "ri:github-fill",
     //     },
     //   ],
@@ -1153,7 +1153,7 @@ const projects = {
     // {
     //   id: "13",
     //   name: "GitHub Theme Portfolio",
-    //   url: "https://github.com/harikanani/harikanani.github.io",
+    //   url: "https://github.com/username/username.github.io",
     //   description:
     //     "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
     //   languages: [
@@ -1177,12 +1177,12 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/harikanani.github.io",
+    //       url: "https://github.com/username/username.github.io",
     //       iconifyClass: "ri:github-fill",
     //     },
     //     {
     //       name: "Live Demo",
-    //       url: "https://harikanani.github.io/",
+    //       url: "https://username.github.io/",
     //       iconifyClass: "mdi:web",
     //     },
     //   ],
@@ -1190,7 +1190,7 @@ const projects = {
     // {
     //   id: "6",
     //   name: "Automate Attendace",
-    //   url: "https://github.com/harikanani/Node_Python",
+    //   url: "https://github.com/username/Node_Python",
     //   description: "Automation of Online Attendance using node js and python",
     //   languages: [
     //     {
@@ -1218,7 +1218,7 @@ const projects = {
     // {
     //   id: "7",
     //   name: "Automate Discord Bot",
-    //   url: "https://github.com/harikanani/AutomateDiscordBot",
+    //   url: "https://github.com/username/AutomateDiscordBot",
     //   description:
     //     "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
     //   languages: [
@@ -1251,7 +1251,7 @@ const projects = {
     // {
     //   id: "8",
     //   name: "Flask Blog",
-    //   url: "https://github.com/harikanani/flask_blog",
+    //   url: "https://github.com/username/flask_blog",
     //   description: "A Simple Blog Web Application made using Flask Framework",
     //   languages: [
     //     {
@@ -1287,7 +1287,7 @@ const projects = {
     // {
     //   id: "9",
     //   name: "Netflix top series",
-    //   url: "https://github.com/harikanani/netflix-top-series",
+    //   url: "https://github.com/username/netflix-top-series",
     //   description: "List of Top Netflix Series which is deployed to vercel.",
     //   languages: [
     //     {
@@ -1323,7 +1323,7 @@ const projects = {
     // {
     //   id: "10",
     //   name: "COVID-19 Tracker",
-    //   url: "https://github.com/harikanani/Covid19TrackerReact",
+    //   url: "https://github.com/username/Covid19TrackerReact",
     //   description:
     //     "Simple Covid-19 Tracker made using React and deployed to Vercel.",
     //   languages: [
@@ -1347,7 +1347,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/Covid19TrackerReact",
+    //       url: "https://github.com/username/Covid19TrackerReact",
     //       iconifyClass: "ri:github-fill",
     //     },
     //   ],
@@ -1355,7 +1355,7 @@ const projects = {
     // {
     //   id: "11",
     //   name: "Food Order Static Website",
-    //   url: "https://github.com/harikanani/food-order-website",
+    //   url: "https://github.com/username/food-order-website",
     //   description:
     //     "A simple static website related to food restaurants service. this is reasponsive as well.",
     //   languages: [
@@ -1415,7 +1415,7 @@ const projects = {
     //   links: [
     //     {
     //       name: "Github",
-    //       url: "https://github.com/harikanani/nft-launchpad",
+    //       url: "https://github.com/username/nft-launchpad",
     //       iconifyClass: "ri:github-fill",
     //     },
     //   ],
