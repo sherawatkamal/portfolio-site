@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Kamal Sherawat",
   subTitle: "Software Developer, Data Scientist 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1jwN9HQDQmlNo11GXcz8T3a_gxesu98p_/view?usp=sharing",
+    "https://drive.google.com/file/d/1PHgxmMnof_OYH7qc8FaRbY4IUIgSgLlE/view?usp=sharing",
   mail: "mailto:kamal3@gmail.com",
 };
 
@@ -36,12 +36,15 @@ const skills = {
       title: "Data Scientist",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Strong foundation in machine learning, deep learning, and data analysis using Python, TensorFlow, and Scikit-learn",
+        "⚡ Strong foundation in machine learning, deep learning, and data analysis using Python, TensorFlow, PyTorch, and Scikit-learn",
         "⚡ Experienced in developing end-to-end data-driven applications, from preprocessing and modeling to deployment",
         "⚡ Proficient in data visualization using Matplotlib, Seaborn, and Tableau to extract insights and support decision-making",
         "⚡ Expertise in Computer Vision with CNN architectures (VGG16, ResNet) and deep learning models",
         "⚡ Skilled in Natural Language Processing using RNN, LSTM architectures with GloVe embeddings",
         "⚡ Experience in multi-modal AI tasks including image classification, segmentation, and time-series analysis",
+        "⚡ Proficient in Generative AI including Large Language Models (LLMs), GANs, and Diffusion Models",
+        "⚡ Skilled in Transfer Learning and Reinforcement Learning for advanced AI applications",
+        "⚡ Experience with Hugging Face Transformers and modern AI frameworks for model development",
       ],
       softwareSkills: [
         {
@@ -121,6 +124,41 @@ const skills = {
             color: "#D00000",
           },
         },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "simple-icons:pytorch",
+          style: {
+            color: "#EE4C2C",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "Hugging Face",
+          fontAwesomeClassname: "simple-icons:huggingface",
+          style: {
+            color: "#FF9F00",
+          },
+        },
+        {
+          skillName: "Generative AI",
+          fontAwesomeClassname: "simple-icons:openai",
+          style: {
+            color: "#412991",
+          },
+        },
+        {
+          skillName: "Transfer Learning",
+          fontAwesomeClassname: "simple-icons:tensorflow",
+          style: {
+            color: "#FF6F00",
+          },
+        },
       ],
     },
     {
@@ -128,10 +166,13 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive front-end user interfaces for web and mobile applications",
-        "⚡ Build responsive website front ends using ReactJS",
-        "⚡ Develop mobile applications using Flutter and Android",
-        "⚡ Create application backends using Node.js, Express, and Flask",
-        "⚡ Integrate third-party services such as Firebase, AWS, and DigitalOcean",
+        "⚡ Build responsive website front ends using ReactJS, Next.js, and modern JavaScript frameworks",
+        "⚡ Create immersive 3D web experiences using Three.js and WebXR technologies",
+        "⚡ Develop robust application backends using Node.js, Express.js, and C# with ASP.NET",
+        "⚡ Design and implement RESTful APIs with seamless integration and authentication",
+        "⚡ Proficient in UI/UX design using Figma and responsive design with Bootstrap and Tailwind CSS",
+        "⚡ Experience with web hosting platforms including Netlify, Vercel, and GitHub Pages",
+        "⚡ Skilled in API development, integration, and third-party service integration",
       ],
       softwareSkills: [
         {
@@ -312,6 +353,48 @@ const skills = {
             color: "#21759B",
           },
         },
+        {
+          skillName: "Three.js",
+          fontAwesomeClassname: "simple-icons:threejs",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Express.js",
+          fontAwesomeClassname: "simple-icons:express",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
+          style: {
+            color: "#7952B3",
+          },
+        },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "API Integration",
+          fontAwesomeClassname: "simple-icons:postman",
+          style: {
+            color: "#FF6C37",
+          },
+        },
+        {
+          skillName: "Web Hosting",
+          fontAwesomeClassname: "simple-icons:netlify",
+          style: {
+            color: "#00C7B7",
+          },
+        },
       ],
     },
   ],
@@ -326,10 +409,10 @@ const degrees = {
       alt_name: "SSEC",
       duration: "2024 - 2026",
       descriptions: [
-        "⚡ I have studied core subjects like Advanced Machine Learning, Computer Vision, Deep Learning, and Neural Networks.",
-        "⚡ I have implemented several projects based on what I've learned in my Computer Engineering course, including AI/ML applications.",
-        "⚡ Assisted in teaching and grading for a graduate-level Machine Learning course with 80+ students.",
-        "⚡ Conducted research on Dynamic CNNs for multi-modal tasks and image captioning with CNN-RNN architectures.",
+        "⚡ Master's program focusing on Advanced Machine Learning, Computer Vision, Deep Learning, and Neural Networks.",
+        "⚡ Implemented several projects based on coursework, including AI/ML applications and research projects.",
+        "⚡ Served as Graduate Teaching and Research Assistant, teaching and mentoring students in Machine Learning.",
+        "⚡ Conducted research in Neural Archaeology and Dynamic CNNs for multi-modal tasks and image captioning.",
       ],
       website_link: "https://www.vt.edu/",
     },
@@ -340,9 +423,9 @@ const degrees = {
       alt_name: "SSGC",
       duration: "2018 - 2022",
       descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend, Web, and Mobile App Development.",
-        "⚡ I have implemented several projects based on what I've learned in my Computer Engineering course.",
+        "⚡ Bachelor's program covering core subjects including Data Structures, DBMS, Networking, Security, and Software Engineering.",
+        "⚡ Completed various online courses and certifications for Backend, Web, and Mobile App Development.",
+        "⚡ Implemented several projects based on coursework, including web applications and software development projects.",
       ],
       website_link: "https://sushantuniversity.edu.in/",
     },
@@ -459,13 +542,23 @@ const experience = {
           color: "#FF6B6B",
         },
         {
-          title: "Grader",
+          title: "Web Developer",
+          company: "Universal Technical Systems",
+          company_url: "#",
+          logo_path: "uts_logo.svg",
+          duration: "Nov 2021 - June 2024",
+          location: "Delhi, India",
+          description: `Migrated a desktop app to a scalable ReactJS + C# web platform and built an ML-based predictive maintenance system, cutting load times by 35% and improving detection accuracy by 85%. Created RESTful APIs and optimized MySQL databases, boosting scalability and speeding up data retrieval.`,
+          color: "#0071C5",
+        },
+        {
+          title: "Graduate Teaching and Research Assistant",
           company: "Virginia Tech",
           company_url: "https://www.vt.edu/",
           logo_path: "VirginiaTech_logo.png",
-          duration: "Jan 2025 - May 2025",
+          duration: "Aug 2025 - Present",
           location: "Blacksburg, Virginia",
-          description: `Assisted in teaching and grading for a graduate-level Machine Learning course with over 80 students, ensuring fair evaluation and consistent feedback. Collaborated closely with the instructor to streamline assignment workflows and provided student support on key topics such as data preparation, regression, decision trees, and neural networks.`,
+          description: `Taught and mentored students in Machine Learning by clarifying concepts, addressing doubts, and evaluating assignments/projects with constructive feedback. Conduct research in Neural Archaeology, analyzing neural network representations to improve interpretability and uncover insights into model behavior and architecture.`,
           color: "#831e3f",
         },
 
@@ -595,7 +688,7 @@ const projects = {
       id: "0",
       name: "Advance Spring Design Web",
       description:
-        "Converted a legacy desktop app to a web platform using ReactJS and Redux. Integrated C# backend logic, Matplotlib charts, and 3D rendering with Three.js.",
+        "Transformed an outdated desktop app into a modern web-based platform by developing a responsive ReactJS frontend with Redux and implementing a C# backend, featuring Matplotlib for interactive visualizations and Three.js for immersive, real-time 3D rendering to significantly enhance user experience.",
       languages: [
         { name: "ReactJS", iconifyClass: "logos-react" },
         { name: "Redux", iconifyClass: "skill-icons:redux" },
@@ -648,7 +741,7 @@ const projects = {
       id: "4",
       name: "fAIshion.AI Virtual Try-On",
       description:
-        "AI-powered browser extension for virtual try-on, size recommendations, and discount matching across e-commerce platforms using React, WebAssembly, and computer vision models.",
+        "Developed a browser extension using React, JavaScript, and WebAssembly that leverages AI-driven machine learning and computer vision models with third-party APIs to enable virtual try-on, size recommendations, and discount matching across e-commerce platforms.",
       languages: [
         { name: "React", iconifyClass: "logos-react" },
         { name: "JavaScript", iconifyClass: "logos-javascript" },
@@ -661,7 +754,7 @@ const projects = {
       id: "5",
       name: "Image Captioning with CNN-RNN",
       description:
-        "Deep learning model using VGG16 and LSTM with GloVe embeddings for generating accurate image captions on Flickr8k dataset with strong BLEU, METEOR, and ROUGE-L scores.",
+        "Created an image captioning model that uses VGG16 and LSTM with GloVe embeddings to generate accurate, natural captions for the Flickr8k dataset, achieving strong BLEU, METEOR, and ROUGE-L scores.",
       languages: [
         { name: "Python", iconifyClass: "logos-python" },
         { name: "VGG16", iconifyClass: "simple-icons:keras" },
@@ -921,7 +1014,7 @@ const projects = {
       id: "8",
       name: "Dynamic CNNs for Multi-Modal Tasks",
       description:
-        "Research on ResNet-18-based CNN models using hard attention, soft attention, and omni-directional convolution for image classification, segmentation, and time-series tasks.",
+        "Conducted a comparative study on ResNet-18-based CNN models using hard attention, soft attention, and omni-directional convolution, testing their performance on image classification, segmentation, and time-series tasks, where OD-CNN delivered the best accuracy and mIoU results.",
       languages: [
         {
           name: "Python",
