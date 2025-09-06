@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Kamal Sherawat",
   subTitle: "Software Developer, Data Scientist 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/1PHgxmMnof_OYH7qc8FaRbY4IUIgSgLlE/view?usp=sharing",
+    "https://drive.google.com/file/d/1jwN9HQDQmlNo11GXcz8T3a_gxesu98p_/view?usp=sharing",
   mail: "mailto:kamal3@gmail.com",
 };
 
