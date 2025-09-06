@@ -532,6 +532,16 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Graduate Teaching and Research Assistant",
+          company: "Virginia Tech",
+          company_url: "https://www.vt.edu/",
+          logo_path: "VirginiaTech_logo.png",
+          duration: "Aug 2025 - Present",
+          location: "Blacksburg, Virginia",
+          description: `Taught and mentored students in Machine Learning by clarifying concepts, addressing doubts, and evaluating assignments/projects with constructive feedback. Conduct research in Neural Archaeology, analyzing neural network representations to improve interpretability and uncover insights into model behavior and architecture.`,
+          color: "#831e3f",
+        },
+        {
           title: "Software Engineer",
           company: "fAIshion Inc",
           company_url: "#",
@@ -550,16 +560,6 @@ const experience = {
           location: "Delhi, India",
           description: `Migrated a desktop app to a scalable ReactJS + C# web platform and built an ML-based predictive maintenance system, cutting load times by 35% and improving detection accuracy by 85%. Created RESTful APIs and optimized MySQL databases, boosting scalability and speeding up data retrieval.`,
           color: "#0071C5",
-        },
-        {
-          title: "Graduate Teaching and Research Assistant",
-          company: "Virginia Tech",
-          company_url: "https://www.vt.edu/",
-          logo_path: "VirginiaTech_logo.png",
-          duration: "Aug 2025 - Present",
-          location: "Blacksburg, Virginia",
-          description: `Taught and mentored students in Machine Learning by clarifying concepts, addressing doubts, and evaluating assignments/projects with constructive feedback. Conduct research in Neural Archaeology, analyzing neural network representations to improve interpretability and uncover insights into model behavior and architecture.`,
-          color: "#831e3f",
         },
 
         // {
