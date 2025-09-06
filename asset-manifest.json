@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4b62f88b.chunk.css",
-    "main.js": "/static/js/main.c32611e7.chunk.js",
-    "main.js.map": "/static/js/main.c32611e7.chunk.js.map",
+    "main.js": "/static/js/main.16f2a0d7.chunk.js",
+    "main.js.map": "/static/js/main.16f2a0d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.de6673d8.js",
     "runtime-main.js.map": "/static/js/runtime-main.de6673d8.js.map",
-    "static/js/2.9e72a127.chunk.js": "/static/js/2.9e72a127.chunk.js",
-    "static/js/2.9e72a127.chunk.js.map": "/static/js/2.9e72a127.chunk.js.map",
+    "static/js/2.308ebbea.chunk.js": "/static/js/2.308ebbea.chunk.js",
+    "static/js/2.308ebbea.chunk.js.map": "/static/js/2.308ebbea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.69f970f0bb3723b4b83b7e6709b347fd.js": "/precache-manifest.69f970f0bb3723b4b83b7e6709b347fd.js",
+    "precache-manifest.a721c4bb452c7713f6d78132b77f2e6e.js": "/precache-manifest.a721c4bb452c7713f6d78132b77f2e6e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.4b62f88b.chunk.css.map": "/static/css/main.4b62f88b.chunk.css.map",
-    "static/js/2.9e72a127.chunk.js.LICENSE.txt": "/static/js/2.9e72a127.chunk.js.LICENSE.txt",
+    "static/js/2.308ebbea.chunk.js.LICENSE.txt": "/static/js/2.308ebbea.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Coursera_logo.svg": "/static/media/Coursera_logo.23ec484f.svg",
     "static/media/VirginiaTech_logo.png": "/static/media/VirginiaTech_logo.6e28a84d.png",
@@ -52,8 +52,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.de6673d8.js",
-    "static/js/2.9e72a127.chunk.js",
+    "static/js/2.308ebbea.chunk.js",
     "static/css/main.4b62f88b.chunk.css",
-    "static/js/main.c32611e7.chunk.js"
+    "static/js/main.16f2a0d7.chunk.js"
   ]
 }
